@@ -2,6 +2,8 @@
 
 Repositorio para el taller de GIT
 
+Cambios desde GitHub
+
 ## Encabezado de tipo h2
 
 Soy Pablo Rubio
